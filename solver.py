@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
+#Simple Sudoku solver
 
 
 board = [
@@ -88,7 +85,7 @@ print("___________________")
 print_board(board)
 
 
-# In[ ]:
+#####################
 
 
 
